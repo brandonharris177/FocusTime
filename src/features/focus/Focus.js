@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   },
   title: {
     color: colors.secondary,
-    fontWeight: 'folding',
+    fontWeight: 'bold',
     fontSize: fontSize.large,
   },
   inputContainer: {
